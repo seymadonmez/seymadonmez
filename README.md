@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Şeyma.
 
+🌱 I'm currently learning object oriented programing with Asp.Net Core and C# programming language.
+
+💡 I like to explore new technologies and learning programming.
+
+📫 How to reach me:
+
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/github_username
 <!--
 **seymadonmez/seymadonmez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
