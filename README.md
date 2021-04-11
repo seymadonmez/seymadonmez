@@ -4,14 +4,13 @@
 
 💡 I like to explore new technologies and learning programming.
 
-📫 How to reach me:
-   <a href="https://www.linkedin.com/in/%C5%9Feyma-d%C3%B6nmez-5388a6154/" rel="nofollow"><img src="https://camo.githubusercontent.com/29fab01b8c83eb7db69c08d0bf86cbdac01ea9ef9f88db04ef2bb0aee77224e8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53616d65746b6179612d666f6c6c6f772532306f6e2532306c696e6b6564696e2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/SeymaDonmez-follow%20on%20linkedin-blue?style=for-the-badge&amp;logo=linkedin" style="max-width:100%;"></a>
-		  
-		  
+📫 How to reach me: [seymadonmezz1@gmail.com](mailto:seymadonmezz1@gmail.com)
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/github_username
+<p align="center">
+<a href="https://www.linkedin.com/in/%C5%9Feyma-d%C3%B6nmez-5388a6154/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIN-Seyma%20Donmez-blue?style=flat&logo=linkedin"></a>
+</p>		  
+
+
 <!--
 **seymadonmez/seymadonmez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,3 +25,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- If you want the template for my gif, email me! -->
+
+### Languages
+
+
+### Technologies
+
+
+
+### Full Stack Projects
+
+[![](https://img.shields.io/badge/-🧬%20RentACarProject%20BackEnd-000)](https://github.com/seymadonmez/ReCapProject)
+[![](https://img.shields.io/badge/-⚡%20RentACarProject%20FrontEnd-000)](https://github.com/seymadonmez/recap-frontend)
+
+<details>
+  <summary><b>📈 Github Stats</b></summary>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seymadonmez&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=seymadonmez&hide_border=true" />
+</details>
+
+
+
