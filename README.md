@@ -7,7 +7,7 @@
 📫 How to reach me: [seymadonmezz1@gmail.com](mailto:seymadonmezz1@gmail.com)
 
 <p align="center">
-<a href="https://www.linkedin.com/in/%C5%9Feyma-d%C3%B6nmez-5388a6154/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIN-Seyma%20Donmez-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/seymadonmezz/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIN-Seyma%20Donmez-blue?style=flat&logo=linkedin"></a>
 </p>		  
 
 
