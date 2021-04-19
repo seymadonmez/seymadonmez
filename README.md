@@ -4,10 +4,10 @@
 
 💡 I like to explore new technologies and learning programming.
 
-📫 How to reach me: [seymadonmezz1@gmail.com](mailto:seymadonmezz1@gmail.com)
+📫 How to reach me: <a href="https://www.linkedin.com/in/seymadonmezz/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIN-Seyma%20Donmez-blue?style=flat&logo=linkedin"></a>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/seymadonmezz/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIN-Seyma%20Donmez-blue?style=flat&logo=linkedin"></a>
+
 </p>		  
 
 
@@ -29,12 +29,17 @@ Here are some ideas to get you started:
 
 ### 🛠 &nbsp;Tech Stack
 
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+<img src="https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white"></img>
+<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></img>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></img>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
+
 
 ### Full Stack Projects
 
